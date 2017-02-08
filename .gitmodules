@@ -1,0 +1,3 @@
+[submodule "internal_libs/LeUtils"]
+	path = internal_libs/LeUtils
+	url = https://github.com/etsugua/LeUtils.git
